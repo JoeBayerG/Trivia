@@ -1,0 +1,92 @@
+/Trivia/white//What color reflects light from all parts of the visible spectrum?
+/Trivia/false//Triceratops' tail was longer than its body? True or false?
+/Trivia/false//Air bubbles in the center of a hair shaft cause hair to turn gray. True or false?
+/Trivia/blue//Cyan is what color?
+/Trivia/true//Tongue prints are as unique as fingerprints? True or false?
+/Trivia/1/1st/first//What day of the month is New Year's Day in the United States?
+/Trivia/4/four//How many states begin with the letter "A"?
+/Trivia/true//The right lung takes in more air than the left? True or false?
+/Trivia/7/seven//How many continents are there?
+/Trivia/3/three//How many times did Dorothy click her heels together?
+/Trivia/blue//In 1995 what color M&M was substituted for tan?
+/Trivia/7/seven//How many wonders of the ancient world were there?
+/Trivia/true//The human body has 45 miles of nerves. True or false?
+/Trivia/blue//Besides red and white, what other color is on the flag of Thailand?
+/Trivia/white//What color is Lisa's necklace on The Simpsons?
+/Trivia/true//The Pacific Ocean encloses an area larger than all the land surfaces of the earth put together. True or false?
+/Trivia/2/two//How many outs are in a double play?
+/Trivia/1/one//How many races are run each year at the Indianapolis Speedway?
+/Trivia/true//Robert Todd Lincoln, son of Abraham Lincoln, was present at the assassinations of three presidents. True or false?
+/Trivia/3/three//How many months does the average worker ant live?
+/Trivia/black//What color is a giraffe's tongue?
+/Trivia/yellow//Curious George's friend was The Man in the what color hat?
+/Trivia/true//There are more insects in one square mile of rural land than there are human beings on the entire earth. True or false?
+/Trivia/9/nine//What is the greatest number of regulation baseballs a person has ever held in one hand?
+/Trivia/green//What color blood does Mr. Spock have?
+/Trivia/7/seven//How many countries are there in Central America?
+/Trivia/red and white/white and red/red,white/white,red//What two colors make up the flag of Japan?
+/Trivia/4/four//How many countries in South America border the Pacific Ocean?
+/Trivia/true//Spiders never spin webs in structures made of chestnut wood. True or false?
+/Trivia/blackjack/black jack//The card game Twenty-one is also known as what?
+/Trivia/6/six//How many feet tall is the average giraffe at birth?
+/Trivia/true//More people are killed each year by honeybees than by poisonous snakes. True or false?
+/Trivia/5/five//How many books in the Torah?
+/Trivia/10/ten//How many pounds of milk does it take to make a pound of natural cheese?
+/Trivia/true//The deer botfly can fly faster than a jet plane. True or false?
+/Trivia/orange//On Sesame Street, what color is Elmo's nose?
+/Trivia/2/two//How many pints of saliva does the average human mouth produce daily?
+/Trivia/Deep Purple//"Smoke on the Water" was recorded by which group?
+/Trivia/3/three//How many eyelids do birds have on each eye?
+/Trivia/red//What color is the outside of a primary rainbow?
+/Trivia/Canada//What is the closest foreign country to Alaska?
+/Trivia/1914//What year did World War I (WWI) start in?
+/Trivia/4/four//How many rows of pins are there in tenpin bowling?
+/Trivia/Wolfgang Mozart/Mozart/Amadeus//Who composed "Twinke, Twinkle, Little Star" at the age of five?
+/Trivia/Be prepared//What's the motto of the Boy Scouts?
+/Trivia/Babe//What was Paul Bunyan's ox's name?
+/Trivia/Alaska//What state is Mount McKinley in?
+/Trivia/Chinese//What nationality was Aladdin?
+/Trivia/The Great Barrier Reef/Great Barrier Reef/Great Barrier//What's the world's largest coral reef?
+/Trivia/The Addams family/Addams/Adams//Who did Lurch work for?
+/Trivia/3/three//How many US states border California?
+/Trivia/Amsterdam//What's the capital of the Netherlands?
+/Trivia/There's no place like home//What phrase does Dorothy repeat as she clicks her ruby shoes to return to Kansas?
+/Trivia/Yes//Do mosquitoes have teeth?
+/Trivia/Africa//What's the second-largest continent?
+/Trivia/The White Rabbit/Rabbit//Who does Alice follow down the hole?
+/Trivia/6/six//How many sides does a hexagon have?
+/Trivia/All for one, one for all/all for one/one for all//What was the motto of the Three Musketeers?
+/Trivia/Pigeons/pigons/pidgeons//What are the clay targets in trap shooting called?
+/Trivia/The Eiffel Tower/Eiffel/Eifel//What has 1,792 steps?
+/Trivia/Motion sickness//What do you take Dramamine for?
+/Trivia/They were miners/mined/miner/mining//What did the Seven Dwarfs do for a living?
+/Trivia/Their mittens/mittens//What did the three little kittens lose?
+/Trivia/The strike zone/strike//What zone varies from batter to batter in baseball?
+/Trivia/Washington//What US State includes the San Juan Islands?
+/Trivia/The comma/comma//What is the most commonly-used punctuation mark?
+/Trivia/Warm blooded//What term describes an animal with a constant blood temperature?
+/Trivia/The aorta/aorta//What is the largest artery in the human body?
+/Trivia/206//How many bones are there in the human body?
+/Trivia/The Sahara/Sahara//What desert embraces the sunniest spot on the Earth?
+/Trivia/The Beach Boys/beach boys//What musical group did the Wilson brothers form in 1961?
+/Trivia/The Grinch/grinch//What Dr. Seuss character steals Christmas?
+/Trivia/The spleen/spleen//What's removed in a splenectomy?
+/Trivia/The blue whale/blue whale//What's the world's largest and heaviest animal?
+/Trivia/The ostrich/ostrich//What's the only bird that gives us leather?
+/Trivia/Red//What's the primary color with the shortest name?
+/Trivia/LXIV//What's the Roman Numeral for 64?
+/Trivia/The back/back//Where is the human skin the thickest?
+/Trivia/Jellystone National park/Jellystone//Where does Yogi Bear live?
+/Trivia/Sherlock Holmes/Sherlock//Who lived at 221B Baker Street?
+/Trivia/3/three//How many holes are there in a tenpin bowling ball?
+/Trivia/The dove/dove//What bird's a symbol of peace?
+/Trivia/his brother, Mycroft Holmes/Mycroft//When Sherlock Holmes is stumped, who does he turn to?
+/Trivia/Packet INternet Groper/Groper//You PING a computer on a network - what are the letters PING an acronym for?
+/Trivia/Paul Allen/Allen//Who, along with Bill Gates, started Microsoft?
+/Trivia/John Goodman/Goodman//In "The Emperor's New Groove", who did the voice for Pacha, the villager?
+/Trivia/Emoticons//What do you call the smiley face and other symbols you type on the computer?
+/Trivia/1024//How many bytes are in one kilobyte (KB)?
+/Trivia/Scuba diving/Scuba//What would you use a Self Contained Underwater Breathing Apparatus for?
+/Trivia/2600//What frequency, used by phone hackers to make free calls, is the name of a hacker magazine?
+/Trivia/America Online/America/AOL//What dial-up service was used by the characters in "You've Got Mail"?
+/Trivia/29,028 feet or 8848 meters/29028/8848/8848 meter//What is the altitude of Mount Everest?

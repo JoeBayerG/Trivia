@@ -1,0 +1,56 @@
+/Geography/The Andes/Andes//Which mountains is the range where vicunas live?
+/History/Marie Curie/Madam Curie/Madame Curie/Curie//Who was the first woman to win a Nobel Prize?
+/Literature/Victor Hugo/Hugo//Who wrote LES MISERABLES?
+/Literature/J. M. Barrie/Barrie//Who wrote PETER PAN?
+/History/David Ben-Gurion/Ben-Gurion/Ben Gurion//Who was Israel's first prime minister?
+/Literature/Lewis Carroll/Carroll//What was the pen name of Charles Dodgson?
+/TheWorld/Fidel Castro/Castro//Who is the current leader of Cuba?
+/Literature/Miguel de Cervantes/de Cervantes/Cervantes//Who wrote DON QUIXOTE?
+/History/Chief Sitting Bull/Sitting Bull//Who lead the Indians at the battle of Little Bighorn?
+/History/Hannibal//Who took his army over the Alps in 221 B.C.?
+/Literature/A. A. Milne/A.A. Milne/Milne//Who wrote WINNIE THE POOH?
+/History/Nero//Who "fiddled" while Rome burned?
+/Literature/George Orwell/Orwell//Who wrote the novel NINETEEN EIGHTY-FOUR?
+/Science&Nature/X-rays/x rays//What is Wilhelm Rontgen known for discovering?
+/History/The Spanish Inquistion/The Inquisition//In 1483 Torquemada was placed in charge of what?
+/Geography/Columbia//Panama was originally a province of what country?
+/History/1783//In what year did the Bahamas become a formal British colony?
+/History/July 10, 1973/1973//When did the Bahamas become independant?
+/Geography/Brasilia//What is the capital of Brazil?
+/History/Denmark//What country is Europe's oldest kingdom?
+/History/1990//In what year did East and West Germany re-unite?
+/Holidays/July 14 (1789)/July 14//When is Bastille Day celebrated?
+/History/Monaco//What country has the Grimaldi family ruled since the 13th century?
+/TheWorld/Nepal (it has 2 connected triangles/Nepal//Which country has the only flag which is NOT rectangular or square?
+/TheWorld/6 (5 for the Southern Cross and 1 Commonwealth star)/6/six//How many stars are there on the Austrailian flag?
+/UnitedStates/Minnesota, USA/Minnesota//What state is the Mayo Clinic located in?
+/Arts&Entertainment/Dame Edna//Barry Humphries is better known under what name?
+/Science&Nature/17/seventeen//In the sequence 2, 3, 5, 7, 11, 13, what number comes next?
+/UnitedStates/Sandra Day O'Connor/O'Connor//Who was the first woman Supreme Court Justice in the U.S.?
+/History/Roald Amundsen (on Dec 13, 1911)/Amundsen//Who was the first person to reach the South Pole?
+/History/1509 - 1547//When did Henry VIII rule?
+/History/Romanov//Which family ruled Russia from 1613 to 1917?
+/Arts&Entertainment/Huey, Dewey, and Louie/Huey Dewey Louie//What are the names of Donald Duck's nephews?
+/Science&Nature/248 earth years/248/two hundred forty-eight//How many of our years does it take for Pluto to circle the sun once?
+/TheWorld/Halifax//What is the capital of Nova Scotia, Canada?
+/Science&Nature/snakes//Which animal kills more people per year, world wide, than any other?
+/UnitedStates/1790//What year was the first U.S. census taken?
+/TheWorld/Mongolia//Which country uses a Tugrik for money?
+/TheWorld/Afghanistan//In which country is Pashto and Dari spoken?
+/TheWorld/Japan//Which country uses a Yen for money?
+/Arts&Entertainment/Jimmy Buffett/Buffett//Which singer's fans are called Parrot Heads?
+/Literature/Moscow and New York/Moscow & New York/New York and Moscow/New York & Moscow//In the book and movie titled FAIL SAFE which two cities are bombed?
+/World/Turkey//What country was hit by a devastating earthquake on August 17, 1999, killing at least 16,000 people?
+/Science&Nature/drought//What caused West Virginia and portions of 5 other states to be declared disaster areas in the summer of 1999?
+/Science&Nature/John Glenn/Glenn//The oldest person to ever travel through space landed at Cape Canaveral Nov 7th, 1998 after a 10 day mission. Who was this person?
+/UnitedStates/A cut in interest rates/lowered interest rates/cut interest/interest rate cut//For the 3rd time in less than 2 months, what did the Federal Reserve Board announce on November 17, 1998?
+/World/Iraq//On Nov 15, 1998 bombers were called back from an aerial assault on what country after it again conceeded to allow inspections by the UN Special Commission?
+/World/China Democratic Party//Attempts to register what political party in China have caused harassment of it's supporters by Chinese authorities?
+/Nature&Science/Hurricane Mitch/Mitch//What plowed through Central America in late October 1998 causing wide-spread devastation?
+/World/Mobil and Exxon/Exxon and Mobil//What 2 oil-industry giants announced plans to merge on December 1, 1998?
+/World/Puerto Rico//Ceeded to the United States by the 1898 Treaty of Paris, what country's people were given the opportunity to express their preference as to the country's future political status on December 13, 1998?
+/History/They are all Japanese historical periods/Japan historical periods/historical eras//What do Nara, Fujiwara and Edo have in common?
+/History/1814//In what year did Napoleon abdicate the throne of France?
+/Computers/www.yahoo.com/yahoo//What was the most visited website in 1999?
+/World/Japan//In what country would you find Seikan; the world's longest railroad tunnel?
+/World/Egypt//What country is the Aswan High Dam in?

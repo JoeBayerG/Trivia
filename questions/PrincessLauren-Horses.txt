@@ -1,0 +1,120 @@
+/Horses/Eleven/11//What is the gestation period of a horse, in months?
+/Horses/Crawl//Which of the following is NOT a movement of the horse: Crawl, Trot, Walk, Canter?
+/Horses/Western//Which of the following is a style of riding: Northwestern, Southwestern, Western, Northeastern?
+/Horses/In the mouth/mouth//On a horse, where does the bit go?
+/Horses/become spotted/spotted//Many Appaloosa foals are born 'solid-color' and '_______' later in life.
+/Horses/Thoroughbred//Secretariat, 20th century's most famous horse, was of what breed?
+/Horses/Rearing//Which of these are a vice of the horse: Rearing, Bearing, Rucking, Searing?
+/Horses/Icelandic//Which horse breed does the Tolt gait?
+/Horses/To smell something better/smell//Why do horses lift up their upper lip?
+/Horses/Karen and David O'Conner/Conner//What couple EACH won a gold medal in the 2000 olympics?
+/Horses/Huzule Pony/Huzule//What pony has played an important part in the lives of Carpathian people?
+/Horses/One/1//For a horse at the gallop, how many feet are on the ground at once?
+/Horses/Four/4//How many kinds of Tapirs (a close relative to the horse) still exist today?
+/Horses/Silver//What was the name of the horse that was ridden by the Lone Ranger?
+/Horses/Brown Betty//What was the name of Paul Revere's horse?
+/Horses/Buttermilk//What was the name of the horse ridden by Dale Evans?
+/Horses/Trigger//What was the name of Roy Roger's horse?
+/Horses/Razor//What was the name of the horse ridden by Chuck Connors in the Rifleman?
+/Horses/Blackjack//What was the name of the riderless horse at John F. Kennedy's funeral?
+/Horses/Fourteen/14//A thoroughbred horse's name may not contain more than how many letters?
+/Horses/Kelso//Which racehorse was named 'horse of the year' for 5 consective years in the early 1960's?
+/Horses/Durbin//Which is not a type of gait for a show horse: Canter, Step, Durbin, Pace?
+/Horses/Draft//Which is the heaviest of the following horses: Morgan, Race, Draft, Quarter?
+/Horses/Nellie Morse/Nellie/Morse//What filly won the 1924 Preakness?
+/Horses/Keeps the horse's head down/head down//A martingale performs what function?
+/Horses/Arabian//What breed was The Black Stallion?
+/Horses/Three/3//As of 2001, how many fillies have won the Kentucky Derby?
+/Horses/Spanish Riding School/Spanish//What is the name of the school in Vienna where Lipizzaners are trained and perform?
+/Horses/New Jersey//The United States Equestrian Team is headquartered in Gladstone.  What state?
+/Horses/Hands//A horse is measured in ________?
+/Horses/Foolish Pleasure/Foolish/Pleasure//The late, great Ruffian ran her last race against which colt?
+/Horses/Meat and milk/meat/milk//Horses were first domesticated for what?
+/Horses/Nez Perce//The appaloosa is associated with what group of Native Americans?
+/Horses/Clydesdale//The horse associated with Anheuser-Busch is?
+/Horses/Lipizzaner//The breed associated with the 'airs above the ground' is?
+/Horses/Gaits of a paso fino/paso fino/gait/gaits//The fino, corto and largo are?
+/Horses/Appaloosa//The Pony of the Americas (POA) looks like what breed of horse?
+/Horses/White//What color would a Lipizzan NOT be at birth?
+/Horses/United States/USA//The Quarter Horse originated in what country?
+/Horses/Austria//The Spanish Riding School, where Lipizzans are bred and trained, is found in what country?
+/Horses/Saddlebred//The mounts of 3 Civil War generals--Lee's Traveller, Grant's Cincinnati, Sherman's Lexington--were what breed of horse?
+/Horses/Saddlebred//What breed is known as 'The Horse America Made'?
+/Horses/Standardbred//Hambletonian 10 is the foundation sire of what breed?
+/Horses/Tennessee Walking Horse/Tennessee//The 'running walk' is the characteristic gait of what breed?
+/Horses/Standardbred//What is the fastest harness horse in the world?
+/Horses/Thoroughbred//What breed originated from the Darley Arabian, the Godolphin Arabian and the Byerly Turk?
+/Horses/Arabian//'Drinker of the wind' is a nickname for what breed?
+/Horses/Thoroughbreds//The American Stud Book records what breed?
+/Horses/Paint//'Overo' and 'tobiano' are terms that refer to which type of horse?
+/Horses/Quarter horse/Quarter//Which breed of horse can 'turn on a dime'?
+/Horses/Jump//An oxer is a type of what?
+/Horses/Go away!/go away//When your pony has his ears pinned back and looking at you, what's he trying to say?
+/Horses/Horse is in pain/Pain/in pain//When a horses' eyes gets slightly cloudy What does this mean?
+/Horses/Looking for a predator/predator//Whilst out in the paddock, the horse suddenly raises his head and has his ears pricked, what's he doing?
+/Horses/Mouth the bit/mouth//When a horse is relaxed under saddle, what would he possibly do?
+/Horses/The horse is willing to listen/listen//When you are loose working a horse, and he bobs his head along the ground, what does this mean?
+/Horses/Playing//When I turn my 18 month old colt out into the paddock in the springtime, and he starts to bite and rear with the others, what's he doing?
+/Horses/Establishing the pecking order/pecking order//When a new horse is introduced into a new herd, he often gets chased off by the herd, but everything finally settles down - what's happening here?
+/Horses/Appaloosa and Paint/Appaloosa/Paint//What breeds of horses usually have bald faces?
+/Horses/14.2 hands/14.2//A pony is classified as what height (and below) in hands?
+/Horses/To keep the mouth closed/mouth closed//What is the purpose of a figure eight noseband?
+/Horses/Forehand//Pivoting on the forefeet is called a turn on the?
+/Horses/Six/6//How many poles are there in Pole Bending?
+/Horses/Too close together/close//A cow-hocked horse has his hocks what?
+/Horses/Horse racing//What is the Sport of Kings?
+/Horses/On his fetlocks/fetlocks//Where are a horse's feathers?
+/Horses/15-30 minutes/15/30/Fifteen/Thirty//Foaling usually takes how long?
+/Horses/Chestnut//A strawberry roan would be what color without his white hairs?
+/Horses/Pinto//What is the color pattern on a horse that is commonly thought to be a breed of horse?
+/Horses/Color of a horse/color//Palomino is also a name for what?
+/Horses/Pleasure riding/pleasure//What are most horses used for now?
+/Horses/Spanish horses/Spanish//What type of horses are the wild Mustangs descended from?
+/Horses/Sham//What was the name of the little golden Arabian stallion in the book: 'The King of the Wind'?
+/Horses/In the mouth/mouth//Where does the bit go?
+/Horses/11 months/11/eleven//What is the gestation period of a horse?
+/Horese/Harem//What is a group of female horses called?
+/Horses/14 hands/14/fourteen//What is the average height in hands of a mustang (to the withers)?
+/Horese/Up to 20 years/20 years/20/twenty//What is the lifespan of the mustang?
+/Horses/1971//In what year were laws passed to make it a federal offense to harass or kill mustangs?
+/Horses/Lead mare//What is an older female mustang who heads the herd called?
+/Horses/Grass and foliage/grass/foliage//What is the diet of the mustang?
+/Horses/Boer war and World War 1/Boer War/World War 1/WW1//For what wars were mustangs captured and used?
+/Horses/Western//In what part of the United States do the mustangs roam?
+/Horses/3 years/3/three//At what age do mustangs become sexually mature?
+/Horses/Four/4//What does 1 hand equal in inches?
+/Horses/Spanish Barbs and Andalusian/Spanish Barb/Andalusian//What kind of horse is the mustang descended from?
+/Horses/Stirrups//What is the part of the saddle where your feet go?
+/Horses/Halter//What is the peice of equipment called thats used to take a horse from a stall? 
+/Horses/Foal scours/scours//What illness is common in a foal's first 2 weeks of life?
+/Horses/Iodine//What application is used on foal's navel after birth?
+/Horses/2 years/2/two//How old is a colt when he is trained to ride?
+/Horses/Geldings//What sex of horse is usually reccomended for beginners?
+/Horses/Bucephalus//What was the name of Alexander The Great's horse?
+/Horses/Comanche//What horse was the only survivor at the battle of Little Big Horn (He was thought to be half mustang and half Morgan)
+/Horses/Figure//Justin Morgan, a schoolteacher from Vermont was sold a small colt who would become the founder of America's first breed-the Morgan. What was the little horse's name? 
+/Horses/Secretariat//What horse won the Triple Crown in 1973. At the Belmont he won by the all-time record of 31 lengths.
+/Horses/Ruffian//What filly racehorse was never defeated in any race, was in a match race at Belmont Park in 1975 with Foolish Pleasure, and in this race she broke her leg and had to be put down. She is now buried at Belmont Park.
+/Horses/The Pie/Pie//In 'National Velvet', Elizabeth Taylor wins a horse and enters him in the Grand National. What's the horse's name?
+/Horses/NSAID's/NSAID//'Phenylbutazone' belongs to which group of drugs?
+/Horses/Hooves//Laminitis or Founder is a condition that affects which part of the horse's anatomy?
+/Horses/Monty Roberts/Monty/Roberts//Which 'holistic' horse trainer was actively involved with a Mustang gelding by the name of 'Shy Boy'?
+/Horses/Dr. Hiltrude Strasser/Strasser/Hiltrude//Who performed research on 'Bare Foot' trimming methods, and subsequently published an article entitled 'A lifetime of soundness'?
+/Horses/The Matriach Mare/Matriach//In a wild herd, who IS the leader (or 'calls the shots') in the herd?
+/Horses/Saddle//If your horse starts 'bucking' when ridden (that has not been apparent previously) What should you check first?
+/Horses/Hands//What can be the most severe piece of equipment on your bridle?
+/Horses/Fungus//'Ringworm' is a condition caused by what?
+/Horses/Sheath//The term 'Having a BEAN' (USA) is a condition that causes the horse alot of discomfort and sometimes to a stage where the horses loses performance. Which area does this affect?
+/Horses/Sweet itch//The drug 'Benzyl Benzoate' is commonly used to treat what type of condition in horses?
+/Horses/Feet//The Thoroughbred horse is evolved from selective breeding by humans, unfortunately most carry a renowned congenital problem, where is it?
+/Horses/Aintree//Which famous UK 'National Hunt' rececourse boasts 'The Chair' jump?
+/Horses/Four/4//In showjumping, how many penalty points would you get if you 'knocked a pole down'?
+/Horses/Three/3//In dressage, how many 'tracks' should a horse make in a 'shoulder-in' movement?
+/Horses/Switzerland//In which country would you find the headquarters of the World Equistrian Governing Body, The FEI (Federation Equestre Internationale)?
+/Horses/Showjumping//In which disclipline would you find an 'Oxer'?
+/Horses/Horse shoes/horseshoes//Where do you find a 'calkin'?
+/Horses/Performance drench/performance/drench//What is a 'milk shake'?
+/Horses/Hong Kong//In racing, where is the Queen Elizabeth II Cup (International Group 1 flat race) held?
+/Horses/Morgan//A farmer in Vermont, trying to breed an all-around utility horse, developed this breed, which was named after him.
+/Horses/Man'o'war/Man-o-war/Manowar/Man o war//What big, red Thoroughbred, owned by Samuel Riddle, and a winner in all but one start, never raced in the Kentucky Derby; thereby never having a chance to win the Triple Crown.
+/Horses/Pegasus//What is the name of the mythological winged horse?

@@ -1,0 +1,18 @@
+/History/Corduroy//What fabric derives it's name from the French for "cord of the king"?
+/Sports&Leisure/Indianapolis Motor Speedway/Indianapolis/Indy//Where is Gasoline Alley?
+/People&Places/Mark Twain/Twain/Clemens//What 19th century humorist cabled home from Europe: "The report of my death was an exaggeration" ?
+/History/Turkey//What bird did Benjamin Franklin advocate as the U. S. national symbol?
+
+**NOTE** REMOVE THIS BELOW... 
+
+The file format is one question per line.  use a '/' as a delimiter.
+The first item is the "catetory" - History, etc.  I use the standard
+Trivial Pursuit categories...
+The next (up to 5) are answers.  Generally, the first is the complete
+correct answer, and the next (optional) ones are matches that will be
+accepted.  It's NOT case sensitive, but is spacing sensitive.  The end
+of the answers is marked by a '//' followed by the text of the question.
+Answers that are 4 or shorter characters must match EXACTLY.
+
+questions?  email ncrowle@sprintmail.com
+

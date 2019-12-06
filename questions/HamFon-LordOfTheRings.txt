@@ -1,0 +1,32 @@
+/Lord Of The Rings/Shadowfax//What was the name of Gandalf's great horse?
+/Lord Of The Rings/Frodo//Who was Bilbo's nephew?
+/Lord Of The Rings/Baggins//What was Bilbo's family name?
+/Lord Of The Rings/Sackville-Baggins/Sackville//What branch of Bilbo's family did he not like?
+/Lord Of The Rings/Smaug//Name the dragon that destroyed the lake-town of Esgaroth.
+/Lord Of The Rings/Bard//Who slew the dragon who was thought to be the King beneath the Mountain?
+/Lord Of The Rings/Thirty three/33/thirtythree//At what age to Hobbits "come of age"?
+/Lord Of The Rings/Strider//By what name was Aragorn known when Frodo first met him?
+/Lord Of The Rings/The Ents/Ents//Who were the shepherds of the trees?
+/Lord Of The Rings/Sting//What was the name of Frodo's elf-blade?
+/Lord Of The Rings/Meriadoc Brandybuck/Meriadoc/Brandybuck//What was Merry's full name?
+/Lord Of The Rings/Peregrin Took/Peregrin//What was Pippin's full name?
+/Lord Of The Rings/Silver spoons/spoon//What was Lobelia Sackville-Baggins known for snitching from Bilbo?
+/Lord Of The Rings/One hundred and eleven/111//What was Bilbo's age at his birthday party where he disappeared?
+/Lord Of The Rings/The Prancing Pony/Prancing//Where did Frodo first meet Aragorn?
+/Lord Of The Rings/Theoden//Who was King of the Mark of Rohan?
+/Lord Of The Rings/Treebeard//What was the name of the great Ent host who helped Merry and Pippin?
+/Lord Of The Rings/Axe//What was Gimli's weapon of choice?
+/Lord Of The Rings/Boromir//Who was the heir of Denethor, Lord of the Tower of Guard?
+/Lord Of The Rings/Arkenstone of Thrain/arkenstone//What was Thorin's greatest treasure?
+/Lord Of The Rings/Grishnakh//Name the Orc who tried to steal the hobbits from Ugluk.
+/Lord Of The Rings/Entmoot//What do you call a gathering of Ents?
+/Lord Of The Rings/Quickbeam (Bregalad)/Quickbeam/Bregalad//Name the young, hasty Ent.
+/Lord Of The Rings/Galdalf The Grey/grey/gray//When Bilbo first met him, what was Galdalf's trademark color?
+/Lord Of The Rings/Beorn//Who took on the enchanted shape of a bear?
+/Lord Of The Rings/Birthday present/birthday//How did Gollum say that he acquired the One ring?
+/Lord Of The Rings/Bungo Baggins/Bungo//Who was Bilbo's father?
+/Lord Of The Rings/The Two Towers/Two Towers//Name the second book of the Lord Of The Rings trilogy.
+/Lord Of The Rings/The Hobbit/Hobbit//What was the title of the prelude book to the Lord Of The Rings trilogy?
+/Lord Of The Rings/1937//What year was The Hobbit first published?
+/Lord Of The Rings/Burglar//What was Bilbo's original job description, according to Galdalf?
+/Lord Of The Rings/Mordor//Where was the Mountain Of Fire?

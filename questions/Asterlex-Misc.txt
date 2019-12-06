@@ -1,0 +1,30 @@
+/True&False/True//Goat's milk is used more widely throughout the world than cows milk.
+/Numbers/4/four//How many U.S. state capitals are named after presidents?
+/Colors/white//"I'm Dreaming of a _____ Christmas."
+/Sports&Leisure/Princess Anne//What member of the British royal family competed in the 1976 Summer Olympics?
+/Colors/Purple//What color are the Majestic mountains in "America the Beautiful"?
+/True&False/true//If one part of a parallel circuit is broken, the circuit continues to function.
+/Miscellaneous/5/five//World War 2 ended in 194_.
+/Art&Literature/Superman//Who made his debut in Action Comics No.1?
+/Colors/Red//What color is the center stripe on the American flag?
+/Miscellaneous/True//Potato chips were invented by a chef in Louisiana in 1865.
+/Colors/blue and white/white and blue/blue&white/white&blue//What two colors are found on the flags of ALL Central American nations?
+/Geography/Trenton//What state capital is 10 miles from Princeton University?
+/True&False/True//You can only see a rainbow if you are not facing the sun.
+/Numbers/2/two//How many of the seven dwarf's names do not end with "y"?
+/Numbers/7/seven//How many faces on a dreydel?
+/Colors/Yellow//______stone National Park has 120 named geysers.
+/Science&Nature/rope//What was the Bridge of San Luis Rey made of?
+/History/Denmark//What country did Lord Haw Haw broadcast propaganda for in World War 2?
+/Colors/Black//What color did most beatniks wear exclusively?
+/Numbers/2/two//How many planets are between Earth and the sun?
+/Miscellaneous/black//Wall Streeters called October 29, 1929_____ Tuesday. 
+/Entertainment/7/seven//How many times did Bing Crosby and Bob Hope hit the road films?
+/Colors/Green//"Ho,ho,ho"is heard in the valley of the Jolly _____ Giant.
+/Colors/Black and White/White and Black/Black&White/White&Black//What are the New York Yankees two team colors?
+/Art&Literature/Japan//What country was the setting of You Only Live Twice?
+/Numbers/5/five//How many axles does an 18-wheeler have?
+/Geography/The English Channel/English Channel//What does the River Seine empty into?
+/History/John D. Rockefeller/Rockefeller/Rockafeller//Who was the first U.S. Billionaire?
+/Colors/Blue//Rhapsody in ____ was a loose biographical film of George Gershwin.
+/Geography/Australia//What country covers an entire continent?

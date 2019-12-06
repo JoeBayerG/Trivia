@@ -1,0 +1,15 @@
+/Product Knowledge/Infinite Modularity, Ultimate Portability, Complete Information Access/Modularity/Portability/Access//What is one of the 3 pillars of Siemens strength?
+/Product Knowledge/SC 7000 and SC 8000 monitors/SC 7000/SC7000/SC 8000/SC8000//What modular monitors come standard with four channels?
+/Product Knowledge/SC 9000XL//What modular monitor comes standard with six channels?
+/Product Knowledge/MultiMed Pods (-5, -6, NeoMed)/Multimed/NeoMed//What is the name of the INFINITY noninvasive cable management solution?
+/Product Knowledge/HemoMed Pods (-2, -4, HemoMed)/Hemomed/Hemo-2/Hemo2/Hemo 2/Pod/Hemo-4/Hemo 4/Hemo4//What is the name of the INFINITY invasive pressure cable management solution?
+/Product Knowledge/No//Can I use the HemoMed with the SC6002XL?
+/Product Knowledge/etCO2 function/etCO2//What part of the etCO2&Respiratory Mechanics pod be used with the SC6002XL?
+/Product Knowledge/Analog output cable/Analog//What cable would I order to connect a balloon pump to an INFINITY modular monitor?
+/Anatomy&Physiology/In order: P wave, QRS complex, ST segment, T wave/P wave/QRS complex/ST segment/T wave//What waves are seen on a normal ECG?
+/Anatomy&Physiology/SA node//What is the normal pacemaker of the heart?
+/Anatomy&Physiology/right atrium, right ventricle, left atrium, left ventricle/left atrium/right atrium/left ventricle/right ventricle//What are the four chambers of the heart?
+/Anatomy&Physiology/Correct cuff size and position/cuff size/position//What are the two most important factors in obtaining accurate noninvasive blood pressure readings?
+/Anatomy&Physiology/Central venous pressure/cvp/right atrial pressure//What do we call the pressure measurement from the right atrium?
+/Anatomy&Physiology/wedge pressure/pulmonary wedge pressure/wedge/PCWP//What pressure do we measure when we inflate the balloon on the Swan-Ganz catheter?
+/Anatomy&Physiology/Impedence//What is the process of measuring respirations with ECG leads called?

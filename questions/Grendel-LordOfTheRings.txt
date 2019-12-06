@@ -1,0 +1,88 @@
+/Lord Of The Rings/holly//What sort of trees flanked the West-door of Moria?
+/Lord Of The Rings/crebain//What was the Sindarin name for the black crows of Fangorn and Dunland?
+/Lord Of The Rings/Mr. Underhill/underhill//What was the false name adopted by Frodo when he set out for Rivendell?
+/Lord Of The Rings/fireworks//What was Gandalf most famous for in the Shire?
+/Lord Of The Rings/Narya//Which of the 3 Elven-rings did Gandalf possess?
+/Lord Of The Rings/Earendil//Who, in legend, sailed with a Silmaril on his brow?
+/Lord Of The Rings/Menegroth//What underground halls were known as the Thousand Caves?
+/Lord Of The Rings/talan//What name did the Elves give to the wooden tree-platforms in Lothlorien?
+/Lord Of The Rings/Numenor/Akallabeth/Atalante//In Middle Earth mythology, what island sank beneath the sea?
+/Lord Of The Rings/firewood/wood//What did Boromir advise the Fellowship to take with them to the Redhorn Gate?
+/Lord Of The Rings/Grima Wormtongue/Wormtongue//Who killed Saruman?
+/Lord Of The Rings/Isildur//According to legend, who cut the One Ring from Sauron's hand?
+/Lord Of The Rings/Uruk-hai/Uruk hai//What type of Orcs acted as elite warriors and commanders in the War of the Ring?
+/Lord Of The Rings/Osgiliath//Which city was the original capital of Gondor?
+/Lord Of The Rings/Gimli//Who had to be blindfolded before he was allowed to enter Lothlorien?
+/Lord Of The Rings/Hobbits/Hobbit//To what race of creatures did Gollum belong?
+/Lord Of The Rings/Smeagol//What was Gollum's birth name?
+/Lord Of The Rings/Slinker or Stinker/Slinker/Stinker//What was one of Sam's nicknames for Gollum?
+/Lord Of The Rings/elven waybread (lembas)/lembas/waybread//What tasted like dust and ashes to Gollum?
+/Lord Of The Rings/Anduril//What was Aragorn's sword called?
+/Lord Of The Rings/athelas//What was the Sindarin name for the herb, kingsfoil?
+/Lord Of The Rings/Galadriel//Who gave Aragorn an emerald brooch, for which he was nicknamed, Elfstone?
+/Lord Of The Rings/Rivendell//Where was the "Last Homely House"?
+/Lord Of The Rings/Amon Sul//What was the Sindarin name for Weather Top?
+/Lord Of The Rings/gorgun//What did Ghan-buri-Ghan call the Orcs?
+/Lord Of The Rings/mellon (friend)/mellon/friend//What word opened the West-door of Moria?
+/Lord Of The Rings/palantir the seeing stone/palantir/seeing stone/seeing-stone//What did Denethor hold in his hands as he died on the funeral pyre?
+/Lord Of The Rings/mushrooms//What crop was Farmer Maggot famous for?
+/Lord Of The Rings/Curunir//What was the Elvish name for Saruman, meaning "Man of Skill"?
+/Lord Of The Rings/black/sallow//What color was Orc skin?
+/Lord Of The Rings/Cirith Ungol//In which tower was the Master-stone of the palantiri kept?
+/Lord Of The Rings/brooch// What did Pippin drop as a sign to any rescuers while he was a prisoner of the Orc band?
+/Lord Of The Rings/Westmarch//What region did Elessar give to the Shire?
+/Lord Of The Rings/Faramir//What was the name of Pippin's only child?
+/Lord Of The Rings/Balrog//What was Durin's Bane?
+/Lord Of The Rings/Balin//Who attempted to recolonize Moria?
+/Lord Of The Rings/mithril//What precious metal did the Dwarves most covet?
+/Lord Of The Rings/Khazad-dum//What was the Dwarven name for Moria?
+/Lord Of The Rings/Numenor//What were the RingWraiths called in the Black Speech?
+/Lord Of The Rings/Eowyn//Who slew the Lord of the Nazgul?
+/Lord Of The Rings/Witch-king of Angmar/Angmar//What was the Lord of the Nazgul called in ancient times?
+/Lord Of The Rings/Imladris//What was Rivendell called in Sindarin?
+/Lord Of The Rings/Vilya//Which of the Three Elven rings did Elrond possess?
+/Lord Of The Rings/Anduin//Deagol found the One Ring in which river?
+/Lord Of The Rings/Glamdring//What was the Elven name of Gandalf's sword?
+/Lord Of The Rings/foe-hammer/foe hammer//What does the name "Glamdring" mean?
+/Lord Of The Rings/Thranduil//Who was Legolas' father?
+/Lord Of The Rings/leaves//What does the name "Legolas" mean?
+/Lord Of The Rings/Ithilien//What land did Legolas help restore to its former beauty after the War of the Ring?
+/Lord Of The Rings/wizards//What was the common name for the Istari?
+/Lord Of The Rings/White Council//Saruman, Gandalf, Galadriel, Elrond, and Cirdan were the members of what organization formed to develop a strategy to deal with Sauron?
+/Lord Of The Rings/Gothmog//Who replaced the Lord of the Nazgul as commander of Sauron's forces in the Battle of the Pelennor Fields?
+/Lord Of The Rings/Oin//Which famous Dwarf did the Watcher in the Water kill?
+/Lord Of The Rings/Lugburz//What was Barad-dur called in Orkish?
+/Lord Of The Rings/precious//What was Gollum's last word?
+/Lord Of The Rings/Dol Guldur//What was the name of Sauron's stronghold in Mirkwood?
+/Lord Of The Rings/Necromancer//What was Sauron called during his reign in Dol Guldur?
+/Lord Of The Rings/Gloin//Who was Gimli's father?
+/Lord Of The Rings/Imrahil//Who was Prince of Dol Amroth during the War of the Rings?
+/Lord Of The Rings/huorns//What was the name of the wild tree-creatures that the Ents controlled and brought to Helm's Deep?
+/Lord Of The Rings/Earendil//According to legend, who sailed his ship in the sky, with a Silmaril as a sign of hope to those oppressed by evil?
+/Lord Of The Rings/wargs//What were the evil wolves of Rhovanion (Mirkwood) called?
+/Lord Of The Rings/Dernhelm//What alias did Eowyn use when she disguised herself as a Rider of Rohan?
+/Lord Of The Rings/galadrim//What were the elves of Lorien known as?
+/Lord Of The Rings/oliphaunts//The Rangers of Ithilien called certain large battle creatures, mumakil.  What did the Hobbits call them?
+/Lord Of The Rings/eye/the eye//Where was the only place you could shoot a mumak to kill it?
+/Lord Of The Rings/Goldberry//Name Tom Bombadil's wife.
+/Lord Of The Rings/Aragorn, Gimli, Legolas/Aragorn,Gimli,Legolas/Aragorn, Gimli, Legolas//Who were the "Three Hunters" (in alphabetical order)?
+/Lord Of The Rings/Paths of the Dead//The heir of Isildur was the only living man who could safely pass where?
+/Lord Of The Rings/Cirdan//Who was the greatest ship-builder of Middle Earth?
+/Lord Of The Rings/Old Man Willow//Who or what attacked Frodo, Merry and Pippin in the Old Forest?
+/Lord Of The Rings/Saruman//Who was Bill Ferny working for?
+/Lord Of The Rings/Gwaihir//Who was the Lord of the Eagles?
+/Lord Of The Rings/Elbereth//Whom did the elves worship and sing about?
+/Lord Of The Rings/Edoras//What was the capital of Rohan?
+/Lord Of The Rings/red arrow/arrow//What symbolic item was sent from Gondor to Rohan when the former needed help?
+/Lord Of The Rings/The Star of Elendil/diamond/star of elendil//What priceless gift did King Elessar give to Sam Gamgee after the War of the Ring?
+/Lord Of The Rings/Dagorlad, the Battle Plain/Dagorlad/Battle Plain//What large, treeless plain between the Dead Marshes and Cirith Gorgor was the site of the ancient battle between Sauron and the Last Alliance?
+/Lord Of The Rings/Umbar//What was the land of the Corsairs?
+/Lord Of The Rings/Halbarad//Which Ranger was Aragorn's friend and standard-bearer?
+/Lord Of The Rings/Angmar//The Barrow-wights were evil spirits originally from where?
+/Lord Of The Rings/Glorfindel//Who loaned his swift white horse, Asfaloth, to Frodo at the Ford of Bruinen?
+/Lord Of The Rings/Fangorn//What forest did the Ents inhabit?
+/Lord Of The Rings/Orthanc//What unbreakable, black stone tower's name means "the cunning mind"?
+/Lord Of The Rings/Phial of Galadriel/phial//What parting gift did Galadriel give Frodo when he left Lorien?
+/Lord Of The Rings/Morgul-knife/knife/dagger//What was used to wound Frodo on Weathertop?
+/Lord Of The Rings/Hornburg//What fortress at Helm's Deep was said to be unconquerable if defended?
+/Lord Of The Rings/Bill//What did Sam call his pony from Bree?

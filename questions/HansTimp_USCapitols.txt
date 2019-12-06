@@ -1,0 +1,50 @@
+/US Capitals/Montgomery//Alabama
+/US Capitals/Juneau//Alaska
+/US Capitals/Phoenix//Arizona
+/US Capitals/Little Rock//Arkansas
+/US Capitals/Sacramento//Califorina
+/US Capitals/Denver//Colorado
+/US Capitals/Hartford//Connecticut
+/US Capitals/Dover//Delaware
+/US Capitals/Tallahassee//Florida
+/US Capitals/Atlanta//Georgia
+/US Capitals/Honolulu//Hawaii
+/US Capitals/Boise//Idaho
+/US Capitals/Indianapolis//Indiana
+/US Capitals/Springfield//Illinois
+/US Capitals/Des Moines//Iowa
+/US Capitals/Topeka//Kansas
+/US Capitals/Frankfort//Kentucky
+/US Capitals/Baton Rouge//Louisiana
+/US Capitals/Augusta//Maine
+/US Capitals/Annapolis//Maryland
+/US Capitals/Boston//Massachusetts
+/US Capitals/Lansing//Michigan
+/US Capitals/St. Paul/St Paul//Minnesota
+/US Capitals/Jackson//Mississippi
+/US Capitals/Jefferson City//Missouri
+/US Capitals/Helena//Montana
+/US Capitals/Lincoln//Nebraska
+/US Capitals/Carson City//Nevada
+/US Capitals/Concord//New Hampshire
+/US Capitals/Trenton//New Jersey
+/US Capitals/Santa Fe//New Mexico
+/US Capitals/Albany//New York
+/US Capitals/Raleigh//North Carolina
+/US Capitals/Bismarck//North Dakota
+/US Capitals/Columbus//Ohio
+/US Capitals/Oklahoma City//Oklahoma
+/US Capitals/Salem//Oregon
+/US Capitals/Harrisburg//Pennsylvania
+/US Capitals/Providence//Rhode Island
+/US Capitals/Columbia//South Carolina
+/US Capitals/Pierre//South Dakota
+/US Capitals/Nashville//Tennessee
+/Us Capitals/Austin//Texas
+/US Capitals/Salt Lake City//Utah
+/US Capitals/Montpelier//Vermont
+/US Capitals/Richmond//Virginia
+/US Capitals/Olympia//Washington
+/US Capitals/Charleston//West Virginia
+/US Capitals/Madison//Wisconsin
+/US Capitals/Cheyenne//Wyoming

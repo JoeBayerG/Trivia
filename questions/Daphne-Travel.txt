@@ -1,0 +1,37 @@
+/TravelTrivia/Argentina/argentina/argentena//To visit the 2nd largest country in South America you would have to go to what country?
+/TravelTrivia/Tijuana/tiajuana/tijuana//What city in Mexico's Baja California state is just across the border from San Diego?
+/TravelTrivia/Zurich/zurick//Although Bern is the capital of Switzerland, what city would you go to if you wanted to visit Switzerland's largest city?
+/TravelTrivia/Hamburg, Germany/Hamburg//What German city might you go for an all-beef pattie?
+/TravelTrivia/Mississippi/mississippi river//What U.S. river is known as "The Big Muddy"?
+/TravelTrivia/Grant/ulysses s grant/president grant//Who's buried in Grant's tomb?
+/TravelTrivia/Amazon/amazon river//The Nile is the longest river in the world but what river carries the most water everyday?
+/TravelTrivia/Tibet//What region in southwestern China was once ruled by the Dalai Lama?
+/TravelTrivia/Munich/Munich, Germany//What commercial and industrial center is the capital of Germany's Bavaria state?
+/TravelTrivia/the Urals/Ural/the Ural Mountains//Extending from the Arctic Tundra to the desert north of the Caspian Sea, what mountains separate Europe and Asia?
+/TravelTrivia/Westminster Abbey/wesminster abby/westminster abby/wesminster abbey//All English monarchs since William the Conqueror have been crowned in the same church located in London. What church is it?
+/TravelTrivia/Brazil//What is the largest Portugeuse speaking country in the world?
+/TravelTrivia/Thailand/Thiland//What do we now call the country that was once known as Siam?
+/TravelTrivia/Lake Victoria/Lac victoria/Victoria//Uganda can't boast an ocean shore but it does reside on what Lake?
+/TravelTrivia/Venice/Venice, Italy//From what famous European city does the country of Venezuela get its name?
+/TravelTrivia/Paris/paris, france//You are standing on a bridge over the river Seine looking at Notre Dame cathedral. Another church in this city is the church of Sacre Coeur. Where are you?
+/TravelTrivia/India//If you going to visit Taj Mahal, Towers of Silence and Golconda, what country will you travel to?
+/TravelTrivia/red//What color is the circle on the Japanese flag?
+/TravelTrivia/Sucre//What city is the capital of Bolivia?
+/TravelTrivia/skirt/dress//In Italy, a man may be arrested for wearing a what?
+/TravelTrivia/Canberra/Canbera//What is the capital of Australia?
+/TravelTrivia/San Antonio/san antone//What city is home to the Alamo?
+/TravelTrivia/Nottingham/notingham//Which English city is known for its association with Robin Hood and Sherwood Forest?
+/TravelTrivia/Budapest//What Hungarian capital is split by the Danube river?
+/TravelTrivia/New Zealand/new zealand//What country has a 14:1 sheep to human ratio?
+/TravelTrivia/Corsica//Which of the following is not a Greek island? Korfu, Crete, Corsica or Kos?
+/TravelTrivia/New York/New York City//What city is known as "The Big Apple"?
+/TravelTrivia/Iceland//If you were visiting Reykjavik what country would you be in?
+/TravelTrivia/Japan//What is the largest Japanese speaking country?
+/TravelTrivia/Arizona//In what USA state is the Petrified Forest located?
+/TravelTrivia/Pisa, Italy/pisa//Where would you go to see a tower that leans?
+/TravelTrivia/Germany//The most populated country in western Europe is?
+/TravelTrivia/Giza//The pyramids in Egypt are located nearest to what city?
+/TravelTrivia/underwear/panties/skivvies/underpants/briefs//In Thailand, it is illegal to leave your house if you are not wearing what?
+/TravelTrivia/flush the toilet/flush//In Switzerland, it is illegal to do this after 10PM if you live in an Apartment?
+/TravelTrivia/Michigan//What state is known for Mackinac Island Fudge?
+/TravelTrivia/Lord Nelson/lord nelsons//Whose statue is in Trafalgar Square?

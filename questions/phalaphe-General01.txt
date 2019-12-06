@@ -1,0 +1,32 @@
+/Dance/Jules Leotard/Leotard//Who invented a close fitting garment worn by dancers?
+/Literature/Ernest Hemingway/Hemingway//Who wrote "The Sun Also Rises" ?
+/History/false//TRUE OR FALSE: The star in the upper left corner of a United States flag symbolizes the State of Delaware which was the first state to ratify the Constitution.
+/Entertainment/false//TRUE OR FALSE: Gene Wilder and Richard Pryor co-starred in Mel Brooks' classic comedy Young Frankenstein. 
+/People/Jacoby//What is Lee J. Cobb's middle name?
+/Magazines/false//TRUE OR FALSE: Better Homes magazine provides "A limited warranty to consumers: Replacement or refund if defective."
+/Science/false//TRUE OR FALSE: Sound travels faster through the air than underwater.
+/Magazines/false//TRUE OR FALSE: The biweekly publication Life is the only People knockoff to have survived.
+/Art/The Last Supper/Last Supper//Dominican Frairs of Santa Maria, Milan could dine in the shadow of what masterpiece.
+/Entertainment/North Carolina/NC//In what state is Andy Griffith's Mayberry located?
+/History/Apollo 11/Apollo XI//In 1969, Neil Armstrong and Edwin (Buzz) Aldrin became the first men to walk on the moon. What was the name of their space craft?
+/History/five/5//How many stones did David carry into battle with Goliath?
+/Nature/Honey Bees/Bees/Bee/Honey//What produces the substance known as royal jelly?
+/Sports/Yankee Stadium/Yankee//Where would you have found the famed Murderer's Row?
+/Architecture/Washington Monument/Washington//Which of these buildings is the shortest: Toronto Tower, Empire State Building, Eiffel Tower, Washington Monument.
+/Geography/false//TRUE OR FALSE: Wales is a county in the United Kingdom.
+/Geography/true//TRUE OR FALSE: Mexico City is slowly sinking into the ground.
+/Geography/Australia//Mount Lofty Range and the Grampian Mountains are located in what Southern Hemisphere country?
+/Geography/New Hampshire/Hampshire//Maine is the only state in the U.S. that borders exactly one other state. What is the state it borders?
+/Geography/Arizona//Where can the Grand Canyon be found?
+/Geography/Atlanta//Stone mountain is the only mountain in the world that is actually growing in size because it is made out of granite.  In what United States capital is this mountain located?
+/Geography/Australia//What country was formerly known as New Holland?
+/History/William IV/William 4//Who was the oldest king to succeed to the British throne?
+/History/six/6//King Henry the VIII of England had how many wives?
+/History/Tennessee//What was the first state to be readmitted to the union after the civil war?
+/History/1922//Howard Carter made the startling discovery of King Tut's tomb in what year?
+/Movie Quotes/Braveheart//What movie is this quote from: "They may take our lives, but they will never take OUR FREEDOM!!"
+/Movie Quotes/Monty Python and the Holy Grail/Grail/Monty/Python//"I soiled my armor I was so scared!" is from which movie?
+/Movie Quotes/Star Wars//"The garbage chute was a wonderful idea. What an incredible smell you're discovered." is from which movie?
+/Movie Quotes/Batman//"I've been dead once, already. It's very liberating." is from which movie?
+/Movie Quotes/Dragnet//"Just the facts, ma'am." is from which movie?
+/Geography/Denmark//The first completely automated, robotic cow milking machine was invented by which country?

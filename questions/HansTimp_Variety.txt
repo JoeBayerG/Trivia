@@ -1,0 +1,134 @@
+/Roman Emperors:/Augustus//Who ruled in Rome in 31bc - 14ad?
+/Roman Emperors:/Tiberius//Who ruled in rome in 14ad - 37ad?
+/Roman Emperors:/Caligula//Who ruled in Rome in 37ad - 41ad?
+/Roman Emperors:/Claudius//Who ruled in Rome in 41ad - 54ad?
+/Roman Emperors:/Nero//Who ruled in Rome in 54ad - 68ad?
+/Roman Emperors:/Vitellius//Who ruled in Rome in 69ad?
+/Roman Emperors:/Vespasianus//Who ruled in Rome in 69ad - 79ad?
+/Roman Emperors:/Titus//Who ruled in Rome in 79ad - 81ad?
+/Roman Emperors:/Domitianus//Who ruled in Rome in 81ad - 96ad?
+/Roman Emperors:/Nerva//Who ruled in Rome in 96ad - 98ad?
+/Roman Emperors:/Trajanus//Who ruled in Rome in 98ad - 117ad?
+/Roman Emperors:/Hadrianus//Who ruled in Rome in 117ad - 138ad?
+/Roman Emperors:/Antonius Pius//Who ruled in Rome in 138ad - 161ad?
+/Roman Emperors:/Marcus Aurelius//Who ruled in Rome in 161ad - 180ad?
+/Roman Emperors:/Commodus//Who ruled in Rome in 180ad - 192ad?
+/Roman Emperors:/Didius Julianus//Who ruled in Rome in 193ad?
+/Roman Emperors:/Septimus Severus//Who ruled in Rome in 193ad - 211ad?
+/Roman Emperors:/Caracalla//Who ruled in Rome in 211ad - 217ad?
+/Roman Emperors:/Macrinus//Who ruled in Rome in 217ad - 218ad?
+/Roman Emperors:/Heliogabalus//Who ruled in Rome in 218ad - 222ad?
+/Roman Emperors:/Alexander Severus//Who ruled in Rome in 222ad - 235ad?
+/Roman Emperors:/Maximinus//Who ruled in Rome in 235ad - 238ad?
+/Roman Emperors:/Balbinus//Who ruled in Rome in 238ad?
+/Roman Emperors:/Gordianus III//Who ruled in Rome in 238ad - 244ad?
+/Roman Emperors:/Philippus//Who ruled in Rome in 244ad - 249ad?
+/Roman Emperors:/Decius//Who ruled in Rome in 249ad - 251ad?
+/Roman Emperors:/Gallus//Who ruled in Rome in 251ad - 254ad?
+/Roman Emperors:/Aemilianus//Who ruled in Rome in 254ad?
+/Roman Emperors:/Valerianus//Who ruled in Rome in 254ad - 260ad?
+/Roman Emperors:/Galienus//Who ruled in Rome in 254ad - 268ad?
+/Roman Emperors:/Claudius II//Who ruled in Rome in 268ad - 270ad?
+/Roman Emperors:/Aerelianus//Who ruled in Rome in 270ad - 275ad?
+/Roman Emperors:/Tacitus//Who ruled in Rome in 275ad - 276ad?
+/Roman Emperors:/Prubus//Who ruled in Rome in 276ad - 282ad?
+/Roman Emperors:/Carus//Who ruled in Rome in 282ad - 283ad?
+/Roman Emperors:/Numerianus//Who ruled in Rome in 283ad - 284ad?
+/Roman Emperors:/Carinus//Who ruled in Rome in 283ad - 285ad?
+/Roman Emperors:/Diocletianus//Who ruled in Rome in 284ad - 305ad?
+/Roman Emperors:/Galerius//Who ruled in Rome in 305ad - 306ad?
+/Roman Emperors:/Maxentius//Who ruled in Rome in 306ad - 324ad?
+/Roman Emperors:/Constantinus the Great//Who ruled in Rome in 324ad - 337ad?
+/Roman Emperors:/Constantinus II//Who ruled in Rome in 337ad - 361ad?
+/Roman Emperors:/Constans// Who ruled in Rome in 337ad - 350ad?
+/Roman Emperors:/Julianus Apostata//Who ruled in Rome in 361ad - 363ad?
+/Roman Emperors:/Jovianus//Who ruled in Rome in 363ad - 364ad?
+/Roman Emperors:/Valentinianus//Who ruled in Rome in 364ad - 375ad?
+/Roman Emperors:/Valens//Who ruled in Rome in 364ad - 378ad?
+/Roman Emperors:/Gratianus//Who ruled in Rome in 375ad - 383ad?
+/Roman Emperors:/Valentinianus//Who ruled in Rome in 375ad - 392ad?
+/Roman Emperors:/Theodosius the Great//Who ruled in Rome in 378ad - 395ad?
+/World Leaders:/Afghanistan//From which country was Muhammad Zahir Shah king?
+/World Leaders:/Argentina//From which country was General Juan D. Peron president?
+/World Leaders:/Belgium//From which country was Leopold III king?
+/World Leaders:/Bhutan//From which country was Yigme Wangchuk de maharadja?
+/World Leaders:/Burma//From which country was Sao Sjwe Thaik president?
+/World Leaders:/Bolivia//From which country was Enriquez Hertzog president?
+/World Leaders:/Brazil//From which country was Generaal Enrique Gaspar Dutra president?
+/World Leaders:/Chile//From which country was Gabriel Gonzalez Videla president?
+/World Leaders:/China//From which country was Li Tsuang Jen president?
+/World Leaders:/Colombia//From which country was Mariano Ospina Perez president?
+/World Leaders:/Costa Rica//From which country was Jose Figuerez president?
+/World Leaders:/Cuba//From which country was Carlos Prio Socarras president?
+/World Leaders:/Denmark//From which country was Frederick IX king?
+/World Leaders:/Ecuador//From which country was Galo Plaza Lasso president?
+/World Leaders:/Egypt//Which country had king Farouk?
+/World Leaders:/Finland//From which country was Jubo Paasikivi president?
+/World Leaders:/France//From which country was Vincent Auriol president?
+/World Leaders:/Paul I//Born in Greece in 1901, who was king in 1947?
+/World Leaders:/Geat Britain//From which country was George VI king?
+/World Leaders:/Guatemala//From which country was Juan Jose Arevalo president?
+/World Leaders:/Haiti//From which country was Dumarsais Estime president?
+/World Leaders:/Honduras//From which country was Juan Manuel Galves president?
+/World Leaders:/Hungary//From which country was Arpad Szakasits president?
+/World Leaders:/Ireland//From which country was Sean T. O'Kelly president?
+/World Leaders:/Iraq//From which country was Faisal II king?
+/World Leaders:/Iran//From which country was Shahpoor Muhammad Reza Pahlevi shah?
+/World Leaders:/Israel//From which country was Chaim Weizmann president?
+/World Leaders:/Italy//From which country was Luigi Einaudi president?
+/World Leaders:/Japan//From which country was Hirohito emperor?
+/World Leaders:/Lebanon//From which country was Bechara el Khoury president?
+/World Leaders:/Liberya//From which country was William V.S. Tubman president?
+/World Leaders:/Morocco//From which country was Sidi Muhammad sultan?
+/World Leaders:/Mexico//From which country was Miguel Aleman president?
+/World Leaders:/Netherlands//From which country was Juliana queen?
+/World Leaders:/Nicaragua//From which country was Victor M. Roman y Reyes president?
+/World Leaders:/Norway//From which country was Haakon VII king?
+/World Leaders:/Austria//From which country was Karl Renner president?
+/World Leaders:/Panama//From which country was Domingo Diaz president?
+/World Leaders:/Paraguay//From which country was F. Molas Lopes president?
+/World Leaders:/Peru//From which country was Manuel A. Odira president?
+/World Leaders:/Philippines/The Philippines// From which country was Elpidio Quirino president?
+/World Leaders:/Poland//From which country was Boleslav Bierut president?
+/World Leaders:/Portugal//From which country was Antonio de Fragoso Carmona president?
+/World Leaders:/Saudi Arabia//From which country was Abdul Aziz al Faisal al Saud king?
+/World Leaders:/Syria//From which country was Hoesni Zaim president?
+/World Leaders:/Thailand//From which country was Phumibol Aduldet king?
+/World Leaders:/Turkey//From which country was Ismet Inonu president?
+/World Leaders:/Uruguay//From which country was Battle Berres president?
+/World Leaders:/Sweden//From which country was Gustav V king?
+/WWI:/Franz Ferdinand//Who in Austria was killed on June 28 1914?
+/WWI:/Jean Jaures//Who was killed in Paris on July 31 1914?
+/WWI:/Von Bethmann Hollweg//Who said 'Not kennt kein Gebot' on August 4 1914?
+/WWI:/Liege/Luik//Which Belgian city was taken by the Germans on August 4-17 1914?
+/WWI:/Germany//August 19 1914: Ultimatum from Japan to which country?
+/WWI:/Pius X//What's the name of the pope who died on August 20 1914?
+/WWI:/Brussels/Bruxelles//Which Belgian city was occupied on August 20 1914?
+/WWI:/Tannenberg//August 23-31 1914: The Battle of?
+/WWI:/The Germans/Germany//On September 3 1914, Reims was occupied by?
+/WWI:/The Marne/Marne//September 5 1914: Battle at?
+/WWI:/Maubeuge//September 8 1914: The fall of?
+/WWI:/Aboekir/Hogue/Cressy//Which English ship was destroyed by the German submarine U9 September 22 1914?
+/WWI:/Antwerp/Antwerpen//Which Belgian city was taken on October 9 1914?
+/WWI:/Brugge//Which Belgian city was taken on October 14 1914?
+/WWI:/Oostende//Which Belgian city was taken on October 15 1914?
+/WWI:/Zeebrugge//Which Belgian city was taken on October 16 1914?
+/WWI:/Japan//On November 7 1914, Tsingtau was taken by which country?
+/WWI:/England//Which country's east coast was attacked by the Germans on January 19-20 1915?
+/WWI:/Russia/The Russians/Russians//German defeats who on February 4-22 1915?
+/WWI:/Gallipolli//On April 25 1915, allied troups land where?
+/WWI:/Warsaw//Which city in Poland was taken on August 3 1915?
+/WWI:/Verdun/The Battle of Verdun/Battle of Verdun//Which battle lasted from February 16 - December 16 1916?
+/WWI:/Mexico//Intervention by the US on March 15 1916 in which country?
+/WWI:/Romania//Which east european country enters /WWI on August 27 1916?
+/WWI:/Wilson//Who becomes president of the US on November 7 1916?
+/WWI:/Baghdad//Which city was occupied by the English on March 11 1917?
+/WWI:/Russia//On March 16 1917, which country becomes a republic?
+/WWI:/Tsar Nicholas II/Nicholas II//Which tsar was arrested on March 21 1916?
+/WWI:/Riga//Which north european city was occupied on September 3 1917?
+/WWI:/Russia//The second 'October Revolution' on November 6-7 1917 was where?
+/WWI:/Kiev//Which Russian city was taken on March 1-3 1918?
+/WWI:/Finland//March 7 1918, peace between Germany and which other country?
+/WWI:/Bulgaria//On October 3 1918, Boris III became the king of which country?
+/WWI:/Tisza//Who was killed on October 31 1917?
+/WWI:/Berlin//In which German city started a revolution on November 9 1917?

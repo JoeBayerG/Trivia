@@ -1,0 +1,63 @@
+/Acronyms-Hardware/Hard Disk Drive//What does HDD stand for?
+/Acronyms-Hardware/Central Processing Unit//What does CPU stand for?
+/Acronyms-Networks/Transmission Control Protocol//What does TCP stand for?
+/Acronyms-Hardware/Read Only Memory/Read-Only Memory//What does ROM stand for?
+/Acronyms-Networks/File Transfer Protocol//What does FTP stand for?
+/Acronyms-Networks/Universal Serial Bus//What does USB stand for?
+/Acronyms-Software/Dynamic Link Library//What does DLL stand for?
+/Acronyms-Networks/Local Area Network/Local Access Network//What does LAN stand for?
+/Acronyms-Networks/Wide Area Network//What does WAN stand for?
+/Acronyms-Networks/Optical Carrier//What does OC stand for?
+/Acronyms-Networks/HyperText Transfer Protocol//What does HTTP stand for?
+/Acronyms-Networks/Internet Protocol//What does IP stand for?
+/Acronyms-Hardware/Plug-and-Play/plug and play//What does PnP stand for?
+/Acronyms-Hardware/Direct Memory Access//What does DMA stand for?
+/Acronyms-Networks/World Wide Web//What does WWW stand for?
+/Acronyms-Networks/Uniform Resource Locator//What does URL stand for?
+/Acronyms-Software/Common//COBOL stands for _____ Business Oriented Language
+/Acronums-Software/Beginner's/Beginner//BASIC stands for _____ All purpose Symbolic Instruction Code
+
+/History-Internet/Vint Cerf/Cerf/Vincent Cerf//Who invented the TCP/IP standard?
+/History-Computers/1998//What year was the Digital Millennium Act passed by Congress?
+/History-Internet/1995//What year did Sun Microsystems release Java?
+/History-Internet/Symbolic.com/Symbolic//What was the first registered domain?
+/History-Internet/1972//What year was the @ symbol set as a standard for e-mail?
+/History-Computers/1974//What year did Intel release the 8080 microprocessor?
+/History-Computers/Altair 8800/Altair//One year after the 8080, what first personal computer was released based upon it?
+/History-Computers/Thomas Penfield Jackson/Jackson//What US District Judge declared Microsoft a monopoly in 1999?
+/History-Computers/MS-DOS/MSDos/MS Dos/DOS//In 1981 what operating system became available to the PC market?
+/History-Computers/William Gibson/Gibson//Who first coined the term 'cyberspace'?
+/History-Internet/Napster//What was the name of the first wide-scale peer-to-peer music sharing application?
+/History-Internet/Netscape//What major browser company did America Online buy in 1999?
+/History-Internet/tv.com/tv//What domain did CNET buy for $15,000 in 1996?
+/History-Internet/1997//business.com sold for $150,000 in what year?
+/History-Computers/Seymour Cray/Cray//Who is the regarded as the father of supercomputing?
+/History-Computers/Moore's Law/Moore//What law says that the number of transistors doubles every 18 months?
+/History-Computers/Linus Torvalds/Torvalds//Who wrote the core of the Linux operating system in 1991?
+/History-Computers/UNIX//Bell Labs released what operating system in 1969?
+/History-Computers/Xerox//What company first invented the modern mouse?
+/History-Computers/iMac//What Macintosh computer was first introduced by Apple in 1998?
+/History-Computers/Bill Gates/Gates//Who is current chairman of Microsoft Corporation?
+/History-Computers/v.90/v90//What modem standard was passed to replace X2 and K56flex in 1998?
+/History-Computers/C//UNIX was the first operating system written in what programming language?
+
+/Technical-Hardware/32-bit/32-bits/32/thirtytwo/thirty two//What is the common bit-bus for PCI components?
+/Technical-Hardware/16-bit/16-bits/16/sixteen//What is the common bit-bus for ISA components?
+/Technical-Hardware/ATAPI//Most non-SCSI CD-ROMs conform to what EIDE standard?
+/Technical-Hardware/AGP//What interface do most new graphics card conform to?
+/Technical-Hardware/MMX//What multimedia instruction set were built into Intel's processors after 1997?
+/Technical-Networks/Ethernet//What common network protoctol can utilize a bus or star topology?
+/Technical-Networks/AppleTalk//What proprietary network protocol did Apple develop?
+/Technical-Networks/eight/8/8-bits//How many bits are in a byte?
+/Technical-Networks/DSL//What common broadband technology utilizes standard POTS?
+/Technical-Networks/Cable Modem/cable//What common broadband technology utilizes coxial cables?
+/Technical-Hardware/12 mbps/12mbps//What is the maximum speed USB 1.1 can transfer at?
+/Technical-Hardware/480 mbps/480mbps//What is the maximum speed USB 2.0 can transfer at?
+/Technical-Hardware/400 mbps/400mbps//What is the maximum speed FireWire can transfer at?
+/Technical-Hardware/127//How many devices can USB support on a single chain?
+/Technical-Networks/10 mbps/10mbps//How fast is a standard 10BaseT network?
+/Technical-Networks/RJ-45/RJ 45//What kind of jack does standard twisted-pair cable use?
+/Technical-Networks/64kbps/64k//How fast can a single ISDN B-channel transfer at?
+/Technical-Networks/Tier-1 (T1)/Tier-1/T-1/T1//1.544 Mbps is the transfer rate of which common broadband technology?
+/Technical-Networks/OC-1/OC1//51.84 Mbps is the transfer rate of which common broadband technology?
+

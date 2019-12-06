@@ -1,0 +1,75 @@
+/Activeworlds/AWGate//What's the name of the first world a "newbie" sees the first time they come to ActiveWorlds?
+/Activeworlds/!@Mart//Which of AWCI's worlds is an e-commerce world?
+/Activeworlds/Worlds, Inc./worlds inc/worlds chat//What company sold ActiveWorlds to Circle of Fire Studios?
+/Activeworlds/AWBingo/AWBingo2/AWBingo3/CitBingo/CitBing0//Name one world that Bingo games for prizes takes place in?
+/Activeworlds/Page Down/pg dn//What key is used to look downwards in ActiveWorlds?
+/Activeworlds/the Ctrl key/ctrl key/ctrl//Holding down what key allows your avatar to move faster in AW?
+/Activeworlds/Turn//What is the most recent avatar sequence that has been added to most of AlphaWorld's avatars?
+/Activeworlds/Eep//Who owns Cubed and Hole worlds?
+/Activeworlds/rocks/rocks.rwx/rock//What is AW's biggest "moon" made out of?
+/Activeworlds/Rjinswand/Rinswand//Who built Mt Bob?
+/Activeworlds/Chloe//Who "mooned" Alpha World's GZ from a hotel in Las Vegas in '98?
+/Activeworlds/King Punisher/kingpunisher//What "famous AW criminal" is buried near Crystal City?
+/Activeworlds/Flagg/flag//Who runs, sets up prizes for and "delivers" prizes for the AWBingo worlds?
+/Activeworlds/Princess Tia//Who own Zuzu world?
+/Activeworlds/Uncle Enzo's/uncle enzo//What pizza company can be found just south of GZ in Godzilla world?
+/Activeworlds/HamFon/ham fon//Who created the DJBot, BuildBot, BoothBot, BingoBot and me, the TriviaBot, among others? 
+/Activeworlds/Calpantera/calpentera//What is the citizen nickname of the person that answers support questions sent to support@activeworlds.com?
+/Activeworlds/North//Which direction from AW GZ would you go to find the Peacekeeper's headquarters in AlphaWorld?
+/Activeworlds/grover/grover's/grovers//What early AW user's name can be found written in red tile walls just east of GZ?
+/Activeworlds/AWGZ//What is the name of the world that is a duplicate of what AW's GZ looked like before AWHS renovation began?
+/Activeworlds/Yellowstone/yellow//What public building world was named after a well-known American National Park?
+/Activeworlds/brick1/brick1.jpg//What is the name of the texture on the brick walks at AW's GZ?
+/Activeworlds/Belladora//Who owns CASTLES world?
+/Activeworlds/Jetta Lewis/jetta/lewis//Who owns America world?
+/Activeworlds/active internet connection/IP connection/internet access/internet connection//What's the main thing you have to have other than the browser software before you can enter ActiveWorlds?
+/Activeworlds/a name and an e-mail address/name e-mail/name and e-mail address/name email//In order; what two things does a tourist have to input in order to log in to ActiveWorlds?
+/Activeworlds/COFmeta/meta/metatropolis//To which world would you go to find out E N Z O LOVES YOU?
+/Activeworlds/Internet Explorer/IE/Explorer//AW uses an integrated browser to display web content alongside the 3D window. What is that browser called?
+/Activeworlds/a registered citizen/citizen/registered//What do you have to be in order to own or caretake a world?
+/Activeworlds/ActiveX control/activex/active x//What does Netscape lack that keeps ActiveWorlds from being able to use it as it's integrated browser?  
+/Activeworlds/teleport//What feature added in 1995 saved a lot of wear and tear on avatar shoes? :o)
+/Activeworlds/12/twelve//How many languages does the ActiveWorlds browser come in?
+/Activeworlds/Snowcrash//What fictional story did names like ENZO, Cryonics and Metatropolis come from?
+/Activeworlds/COFmeta/meta//What AWCI owned, public building world's GZ is loosely patterned after the book "Snowcrash"?
+/Activeworlds/6/six//How many options can be found in the Teleport menu item?
+/Activeworlds/26/twenty-six//How many avatar choices are there in Yellowstone world, not counting Special avatars?
+/Activeworlds/E N Z O/enzo/rick noll//Who started out owning Circle of Fire Studios and is now the owner of ActiveWorlds?
+/Activeworlds/33/thirty-three//How many avatar choices are there in Alpha World, not counting Special avatars?
+/Activeworlds/Alpha World/aw//What world would you look in to find AW's version of the "Titanic"?
+/Activeworlds/check or money order/certified check/money order/check/cheque//Besides using a credit card, name one of the 2 other ways you can pay for an AW citizenship.
+/Activeworlds/Newburyport, Massachusetts/newburyport//What real world city is headquarters to AWCI??
+/Activeworlds/2,000 meters/2,000/two-thousand meters/two thousand//What is the highest altitude you can go to before the program starts "looping back" on you?
+/Activeworlds/Alpha World's 5th Birthday/AW's 5th birthday/AW's fifth birthday/Alpha Worlds fifth birthday//What did Festival'00 celebrate?
+/Activeworlds/Women Owning Worlds//What does WOW stand for?
+/Activeworlds/!History/History//What privately owned world is dedicated to preserving much of AW's past? 
+/Activeworlds/AWUniv/aw univ/aw university//Where can you go inworld to learn advanced building techniques?
+/Activeworlds/AWSchool/aw school//Where can you go inworld to learn basic building skills?
+/Activeworlds/Faber//Who created the Preston Bots?
+/Activeworlds/XelaG/xela g//Who created the XelaBots
+/Activeworlds/Andras//Who created the bots that makes playing Spades and Bridge in AW possible? 
+/Activeworlds/Roland//What is the citizen name of AWCI's chief programmer?
+/Activeworlds/Dataman/data man//Who brought "The New World Times" to Alpha World?
+/Activeworlds/Garbage Elimination Team//What does GET stand for in AW?
+/Activeworlds/Little Bull/littlebull//Who built and maintains the "junk yard" object yard?
+/Activeworlds/Cryonics, aka JP/cryonics/JP//Who was the original owner of Atlantis before it became a public building world?
+/Activeworlds/Moria/graham//Who is the original owner of Colony Alpha?
+/Activeworlds/Young Heather/youngheather//What is Young Shamus' wife's citizen nickname?
+/Activeworlds/Parker Street/parker st/parker//What is the name of the street AWCI's real world headquartes is on?
+/Activeworlds/True//True or false: Your login password can not be the same as your privilege password.
+/Activeworlds/The Black Sun/black sun//What bar, from the story "Snowcrash", can be found just east of COFmeta's GZ?
+/Activeworlds/Steller/stellar//Who owns the world called !Friends?
+/Activeworlds/True//True or False: "Mute" works for whispers as well as keeping the muted person's text off your screen.
+/Activeworlds/Ima Genius//Who made the game "Cypac"?
+/Activeworlds/Too Big//What bot maker is working on "bouncing bots"?
+/Activeworlds/Byte Me//Who made the "Movebot"?
+/Activeworlds/Mars//Which AW public world has a non earth-like, planetary theme?
+/Activeworlds/AWUniv/aw univ/aw university//What world does TechTalk take place in?
+/Activeworlds/12/twelve//How many options can be found in the Show menu item?
+/Activeworlds/Metatropolis Public Liasions/Meta Public Liasion/Metatropolis public liasion/Meta Public Liasions//What does the acronym, MPL in COFmeta world, stand for?
+/Activeworlds/Yellow/yellowstone//What world would you look in to find AW's version of "Old Faithful"?
+/Activeworlds/ActiveWorlds Events Committee/Active Worlds Events Committee/aw events committee//What does AWEC stand for?
+/Activeworlds/Lara//Who built and maintains Northwest Builder's Supply?
+/Activeworlds/the Shift key/shift key/shift//Holding down what key allows you to pass through objects?
+/Activeworlds/the "splash" screen/splash//What is the first screen you see when you are logging in called?
+/Activeworlds/COFmeta/meta/metatropolis//What world would you have to go to find E N Z O's office?
