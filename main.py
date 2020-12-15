@@ -33,9 +33,9 @@ def questionAsk(spm, ans, cat):
     print("Feil, riktig svar er: {}\n".format(ans[0]))
 #kaller funskjonen med gitte sted fra arraylisten
 for j in range(num_questions):
-    i = random.randint(0, len(questions)-1)
+    i = random.randint(0, len(questions)-2)
     answers = []
-    for p in range(2, len(questions[i])-1):
+    for p in range(2, len(questions[i])-2):
         if questions[i][p] != "" and questions[i][p+1] != questions[i][-1]:
             answers.append(questions[i][p])
     questionAsk(questions[i][-1], answers, questions[i][1])
